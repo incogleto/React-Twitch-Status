@@ -1,0 +1,28 @@
+{
+	"//1": "describes your app and it's dependencies",
+	"//2": "https://docs.npmjs.com/files/package.json",
+	"//3": "updating this file will download and update your packages",
+	"name": "my-hyperdev-app",
+	"version": "0.0.1",
+	"description": "What am I about?",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"express-jsxtransform": "^4.0.2",
+		"request": "^2.75.0",
+		"promise": "^7.1.1"
+	},
+	"engines": {
+		"node": "5.4.1"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"react"
+	],
+	"license": "MIT"
+}

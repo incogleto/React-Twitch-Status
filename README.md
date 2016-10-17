@@ -1,2 +1,2 @@
-# React-Twitch-Status
-Pulls status info of Twitch Streamers using Twitch api
+-# React-Twitch-Status
+-Pulls status info of Twitch Streamers using Twitch api
